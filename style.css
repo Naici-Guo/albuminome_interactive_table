@@ -1,0 +1,55 @@
+/* Left-align all table cells */
+.left-align-table table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.left-align-table th,
+.left-align-table td {
+    text-align: left;
+    padding: 8px;
+    border: 1px solid #ddd;
+}
+
+/* Style for the aggregated table as well */
+.shiny-table-container table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.shiny-table-container th,
+.shiny-table-container td {
+    text-align: left;
+    padding: 8px;
+    border: 1px solid #ddd;
+}
+/* Left-align all table content */
+.left-align-table table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.left-align-table th,
+.left-align-table td {
+    text-align: left;
+    padding: 8px 12px;
+    border-bottom: 1px solid #ddd;
+}
+
+.left-align-table th {
+    background-color: #f8f8f8;
+    font-weight: bold;
+}
+
+/* Style for the second table */
+.shiny-table-container table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.shiny-table-container th,
+.shiny-table-container td {
+    text-align: left;
+    padding: 8px 12px;
+    border-bottom: 1px solid #ddd;
+}

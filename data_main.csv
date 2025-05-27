@@ -1,0 +1,640 @@
+﻿Protein Name,Protein,Uniprot ID,1.1,2.1,3.1,3.2,3.3,3.4,4.1,5.1,6.1,7.1,7.2,7.3,8.1,8.2,8.3,9.1,10.1,11.1,11.2,11.3,11.4,12.1,12.2,12.3,13.1,14.1,14.2,14.3,15.1,15.2,16.1,17.1,17.2,18.1,19.1,20.1,21.1,22.1
+Apolipoprotein A-I ,APOA1_HUMAN,P02647,,,1,1,1,1,,0,1,1,1,1,1,,,1,0,0,1,1,,,,,1,,,,1,1,1,1,1,1,1,,0,1
+Apolipoprotein C-I ,APOC1_HUMAN,P02654,,,1,1,0,1,,0,0,1,1,1,1,,,0,0,0,,,,,,,1,,,,1,1,0,1,1,0,1,,0,0
+Apolipoprotein A-II ,APOA2_HUMAN,P02652,,,0,1,0,1,,0,0,1,1,1,1,,,1,0,0,,,,,,,1,,,,1,1,0,1,1,1,1,,0,1
+Vitamin D-binding protein ,VTDB_HUMAN,P02774,,,0,0,0,0,,0,0,1,1,1,0,,,1,0,0,,,,,,,1,,,,1,1,0,1,1,1,1,,0,1
+Apolipoprotein C-II ,APOC2_HUMAN,P02655,,,0,1,0,0,,0,0,1,1,1,0,,,1,0,0,,,,,,,1,,,,1,0,0,1,1,1,0,,0,0
+Serum paraoxonase/arylesterase 1 ,PON1_HUMAN,P27169,,,0,0,0,0,,0,0,1,1,1,0,,,1,0,0,,,,,,,0,,,,1,1,0,1,1,1,1,,0,1
+Plasma kallikrein ,KLKB1_HUMAN,P03952,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,1,0,1,1,1,0,,0,1
+Alpha-1-antichymotrypsin ,AACT_HUMAN,P01011,,,0,0,0,0,,0,0,1,1,1,0,,,1,0,0,,,,,,,1,,,,1,1,0,0,1,1,0,,0,1
+Vitronectin ,VTNC_HUMAN,P04004,,,0,0,0,0,,0,0,1,1,1,0,,,1,0,0,,,,,,,1,,,,1,1,1,0,1,1,0,,0,1
+Apolipoprotein D ,APOD_HUMAN,P05090,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,1,,,,1,1,1,0,1,1,1,,0,0
+Beta-2-glycoprotein 1 ,APOH_HUMAN,P02749,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,1,,,,1,1,0,0,1,1,1,,0,1
+Hemoglobin subunit alpha ,HBA_HUMAN,P69905,,,0,1,0,1,,0,0,1,1,1,0,,,1,0,0,,,,,,,0,,,,0,0,1,0,1,1,1,,0,1
+Protein S100-A8 ,S10A8_HUMAN,P05109,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,0
+Clusterin ,CLUS_HUMAN,P10909,,,0,0,0,0,,0,1,1,1,1,1,,,1,0,0,,,,,,,1,,,,1,1,0,0,1,1,0,,0,1
+Haptoglobin-related protein,HPTR_HUMAN,P00739,,,0,0,0,0,,0,1,1,1,1,1,,,0,0,0,,,,,,,0,,,,1,1,0,0,1,1,0,,0,0
+Complement C1s subcomponent ,C1S_HUMAN,P09871,,,0,0,0,0,,0,1,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,1,1,0,,0,1
+Alpha-2-HS-glycoprotein ,FETUA_HUMAN,P02765,,,0,1,1,0,,0,0,1,1,1,0,,,1,0,0,,,,,,,1,,,,1,1,0,0,1,1,0,,0,1
+Complement C1r subcomponent ,C1R_HUMAN,P00736,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,1,1,0,,0,1
+Platelet basic protein ,CXCL7_HUMAN,P02775,,,0,1,0,0,,0,0,1,1,1,0,,,1,0,0,,,,,,,0,,,,0,0,0,0,1,1,1,,0,1
+Vitamin K-dependent protein S,PROS_HUMAN,P07225,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,1,0,0,,0,0
+Neutral alpha-glucosidase AB ,GANAB_HUMAN,Q14697,,,0,0,0,0,,0,0,0,0,0,1,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,1
+Tubulin alpha-1A chain ,TBA1A_HUMAN,Q71U36,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,1
+Apolipoprotein L3,APOL3_HUMAN,O95236,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,0
+Pro-glucagon,GLUC_HUMAN,P01275,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,0
+Pleckstrin,PLEK_HUMAN,P08567,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,0
+Proto-oncogene tyrosine-protein kinase Src,SRC_HUMAN,P12931,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,0
+14-3-3 protein theta,1433T_HUMAN,P27348,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,0
+Serpin B6,SPB6_HUMAN,P35237,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,0
+S-phase kinase-associated protein 1,SKP1_HUMAN,P63208,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,0
+Tubulin alpha-4A chain,TBA4A_HUMAN,P68366,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,0
+Histone H3.1,H31_HUMAN,P68431,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,0
+14-3-3 protein eta,1433F_HUMAN,Q04917,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,0
+Integrin-linked protein kinase,ILK_HUMAN,Q13418,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,0
+Spliceosome RNA helicase DDX39B,DX39B_HUMAN,Q13838,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,0
+Scavenger receptor class F member 1,SREC_HUMAN,Q14162,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,0
+POTE ankyrin domain family member E,POTEE_HUMAN,Q6S8J3,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,0
+THO complex subunit 4,THOC4_HUMAN,Q86V81,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,0
+Leucine-rich repeat-containing protein 75A,LR75A_HUMAN,Q8NAA5,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,0
+Acidic leucine-rich nuclear phosphoprotein 32 family ,AN32B_HUMAN,Q92688,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,0
+Rho guanine nucleotide exchange factor 1,ARHG1_HUMAN,Q92888,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,1,0,0,,0,0
+Coagulation factor XII ,FA12_HUMAN,P00748,,,0,0,0,0,,0,0,0,1,0,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,1,1,0,,0,1
+C4b-binding protein beta chain,C4BPB_HUMAN,P20851,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,1,0,0,,0,0
+Hemoglobin subunit delta ,HBD_HUMAN,P02042,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,1,0,,0,1
+DNA topoisomerase ,Q07711_STAAU,Q07711,,,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Protein S100-A9 ,S10A9_HUMAN,P06702,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,1,1,1,0,0,0,,0,1
+Collagen alpha-1,CO1A1_HUMAN,P02452,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,1
+Midasin,MDN1_HUMAN,Q9NU22,,,0,0,0,0,,0,0,0,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Acetyl-CoA carboxylase 2,ACACB_HUMAN,O00763,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Signal-induced proliferation-associated 1-like protein 3,SI1L3_HUMAN,O60292,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+HMG box-containing protein 1,HBP1_HUMAN,O60381,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Heterogeneous nuclear ribonucleoprotein C-like 1,HNRC1_HUMAN,O60812,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Zinc finger MYM-type protein 6,ZMYM6_HUMAN,O95789,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Collagen alpha-2,CO1A2_HUMAN,P08123,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Acylamino-acid-releasing enzyme,ACPH_HUMAN,P13798,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Leiomodin-1,LMOD1_HUMAN,P29536,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Integrin alpha-7,ITA7_HUMAN,Q13683,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Condensin complex subunit 1,CND1_HUMAN,Q15021,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Rab GTPase-activating protein 1-like,RBG1L_HUMAN,Q5R372,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Protein FAM171B,F171B_HUMAN,Q6P995,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Serine protease 55,PRS55_HUMAN,Q6UWB4,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Histone acetyltransferase KAT5,KAT5_HUMAN,Q92993,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Fetal and adult testis-expressed transcript protein,FATE1_HUMAN,Q969F0,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Neuroserpin,NEUS_HUMAN,Q99574,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Sialoadhesin,SN_HUMAN,Q9BZZ2,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+TRIO and F-actin-binding protein,TARA_HUMAN,Q9H2D6,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Band 4.1-like protein 1,E41L1_HUMAN,Q9H4G0,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+ESF1 homolog,ESF1_HUMAN,Q9H501,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+PDZ domain-containing protein 7,PDZD7_HUMAN,Q9H5P4,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Methyl-CpG-binding domain protein 1,MBD1_HUMAN,Q9UIS9,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Protein C20orf75 precursor,LRRN4_HUMAN,Q8WUT4,,,0,0,0,0,,0,0,0,0,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,1,0,0,0,,0,0
+Apolipoprotein C-III ,APOC3_HUMAN,P02656,,,0,1,1,1,,0,0,1,1,1,0,,,1,0,0,,,,,,,1,,,,1,1,0,0,0,1,1,,0,0
+Kininogen-1 ,KNG1_HUMAN,P01042,,,0,0,0,0,,0,1,1,1,1,0,,,1,0,0,,,,,,,1,,,,1,1,0,0,0,1,1,,0,1
+Complement C4-B ,CO4B_HUMAN,P0C0L5,,,0,1,0,0,,0,1,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,1,0,,0,1
+Coagulation factor XIII B chain ,F13B_HUMAN,P05160,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,1,1,,0,0
+DNA-directed RNA polymerase II subunit RPB1 ,RPB1_HUMAN,P24928,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,0,0,,0,0
+Leucine-rich repeat and calponin homology domain-containing protein 4,LRCH4_HUMAN,O75427,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,1,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Glucosidase 2 subunit beta,GLU2B_HUMAN,P14314,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+5'-3' DNA helicase ZGRF1,ZGRF1_HUMAN,Q86YA3 ·,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+"Platelet-activating factor acetylhydrolase 2, cytoplasmic",PAFA2_HUMAN,Q99487,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Adhesion G protein-coupled receptor L4,AGRL4_HUMAN,Q9HBW9,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Complement C3 ,CO3_HUMAN,P01024,,,0,0,0,0,,0,1,1,1,1,0,,,1,1,0,,,1,,,,1,,,,1,1,1,0,0,1,0,,0,1
+Hemopexin ,HEMO_HUMAN,P02790,,,0,1,0,0,,0,1,1,1,1,0,,,1,1,0,,,,,,,1,,,,1,1,0,0,0,1,0,,0,1
+Complement C4-A ,CO4A_HUMAN,P0C0L4,,,0,1,0,0,,0,1,1,1,1,0,,,1,1,0,,,,,,,1,,,,0,0,0,0,0,1,0,,0,0
+Alpha-2-macroglobulin ,A2MG_HUMAN,P01023,,,0,0,0,0,,0,1,1,1,1,0,,,0,0,0,,,,,,,1,,,,1,1,1,0,0,1,0,,0,1
+Antithrombin-III ,ANT3_HUMAN,P01008,,,0,0,0,0,,0,1,1,1,1,1,,,1,0,0,,,,,,,0,,,,1,1,0,0,0,1,0,,0,1
+Apolipoprotein A-IV ,APOA4_HUMAN,P06727,,,0,1,1,1,,0,0,1,1,1,0,,,1,0,0,,,,,,,1,,,,1,1,0,0,0,1,0,,0,1
+Protein AMBP ,AMBP_HUMAN,P02760,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,1,1,1,0,0,1,1,,0,1
+Alpha-1B-glycoprotein ,A1BG_HUMAN,P04217,,,0,0,0,0,,0,0,1,1,1,0,,,1,0,0,,,,,,,1,,,,1,1,0,0,0,1,0,,0,1
+Fibronectin ,FINC_HUMAN,P02751,,,1,1,0,0,,0,0,1,1,1,0,,,0,1,0,,,,,,,0,,,,1,0,0,0,0,1,1,,0,1
+Plasma protease C1 inhibitor ,IC1_HUMAN,P05155,,,0,0,1,0,,0,1,1,1,1,0,,,1,0,0,,,,,,,0,,,,1,0,1,0,0,1,0,,0,1
+Inter-alpha-trypsin inhibitor heavy chain H1 ,ITIH1_HUMAN,P19827,,,0,1,0,0,,0,1,1,1,1,0,,,1,0,0,,,,,,,0,,,,1,1,0,0,0,1,0,,0,1
+Angiotensinogen ,ANGT_HUMAN,P01019,,,0,0,0,0,,0,1,1,1,1,1,,,1,0,0,,,,,,,0,,,,1,1,0,0,0,1,0,,0,1
+Alpha-2-antiplasmin ,A2AP_HUMAN,P08697,,,0,0,0,0,,0,1,1,1,1,0,,,1,0,0,,,,,,,0,,,,1,0,0,0,0,1,0,,0,0
+ATP-binding cassette sub-family F member 1 ,ABCF1_HUMAN,Q8NE71,,,0,0,0,0,,0,1,0,0,0,1,,,0,0,0,,,,,,,0,,,,0,1,0,0,0,1,0,,0,0
+Apolipoprotein L1 ,APOL1_HUMAN,O14791,,,0,0,0,0,,1,0,1,1,1,0,,,1,0,1,,,,,,,0,,,,1,1,0,0,0,1,1,,0,0
+Fibrinogen alpha chain [Cleaved into: Fibrinopeptide A; Fibrinogen alpha chain],FIBA_HUMAN,P02671,,,1,1,0,0,,0,0,1,0,1,0,,,1,0,1,,,,,,,1,,,,1,1,1,0,0,0,0,,0,1
+Plasminogen ,PLMN_HUMAN,P00747,,,0,0,0,0,,0,0,1,1,1,0,,,1,0,0,,,,,,,1,,,,1,1,1,0,0,1,0,,0,1
+Alpha-1-acid glycoprotein 1 ,A1AG1_HUMAN,P02763,,,0,0,0,0,,0,0,1,1,1,0,,,1,0,0,,,,,,,1,,,,1,1,0,0,0,1,0,,0,1
+Apolipoprotein E ,APOE_HUMAN,P02649,,,0,0,0,1,,0,0,1,1,1,0,,,1,0,0,1,1,,,,,1,,,,1,1,0,0,0,0,0,,0,1
+Apolipoprotein B-100 ,APOB_HUMAN,P04114,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,1,,,,1,,,,1,1,0,0,0,1,0,,0,1
+Retinol-binding protein 4 ,RET4_HUMAN,P02753,,,0,0,0,0,,0,0,1,1,1,0,,,1,0,0,,,,,,,1,,,,1,1,0,0,0,1,0,,0,0
+Histidine-rich glycoprotein ,HRG_HUMAN,P04196,,,0,0,0,0,,0,0,0,0,0,0,,,1,0,0,,,,,,,1,,,,1,1,0,0,0,1,0,,0,1
+Prothrombin ,THRB_HUMAN,P00734,1,,0,0,1,1,,0,0,1,1,1,0,,,1,0,0,,,,,,,0,,,,1,1,0,0,0,1,0,,0,1
+Complement factor H ,CFAH_HUMAN,P08603,,,0,1,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,1,,,,1,1,0,0,0,1,0,,0,1
+C4b-binding protein alpha chain ,C4BPA_HUMAN,P04003,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,1,,,,1,1,0,0,0,1,1,,0,0
+Zinc-alpha-2-glycoprotein ,ZA2G_HUMAN,P25311,,,0,0,0,0,,0,0,1,1,1,0,,,1,0,0,,,,,,,0,,,,0,0,1,0,0,1,1,,0,1
+Leucine-rich alpha-2-glycoprotein ,A2GL_HUMAN,P02750,,,0,0,0,0,,0,0,1,1,1,0,,,1,0,0,,,,,,,1,,,,0,0,0,0,0,1,0,,0,1
+Hemoglobin subunit beta ,HBB_HUMAN,P68871,,,0,0,0,0,,0,0,1,1,1,0,,,1,0,0,1,,1,,,,1,,,,0,0,0,0,0,1,0,,0,1
+CD5 antigen-like ,CD5L_HUMAN,O43866,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,0,1,,0,1
+Fibrinogen beta chain [Cleaved into: Fibrinopeptide B; Fibrinogen beta chain],FIBB_HUMAN,P02675,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,1,,,,1,0,1,0,0,0,0,,0,1
+Hornerin,HORN_HUMAN,Q86YZ3,,,0,0,0,0,,0,0,0,0,0,0,,,1,0,0,,,,,,,0,,,,0,1,0,0,0,1,0,,0,1
+Serum amyloid A-4 protein ,SAA4_HUMAN,P35542,,,0,0,0,0,,0,0,1,1,1,0,,,1,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Fibrinogen gamma chain,FIBG_HUMAN,P02679,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,1,,,,0,0,1,0,0,0,0,,0,1
+Desmoplakin ,DESP_HUMAN,P15924,,,0,0,0,0,,0,0,1,1,0,0,,,1,0,0,,,,,,,0,,,,0,0,1,0,0,0,0,,0,0
+Dermcidin ,DCD_HUMAN,P81605,,,0,1,0,0,,0,0,1,0,0,1,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,1
+Apolipoprotein M ,APOM_HUMAN,O95445,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Lysozyme C ,LYSC_HUMAN,P61626,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,1,0,0,0,0,0,,0,0
+"60 kDa heat shock protein, mitochondrial ",CH60_HUMAN,P10809,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Transmembrane protein 198,TM198_HUMAN,Q66K66,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,1
+Prolactin-inducible protein ,PIP_HUMAN,P12273,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,1,0,0,0,0,,0,0
+Serpin B3 ,SPB3_HUMAN,P29508,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,1,0,0,0,0,,0,0
+Protein S100-A7 ,S10A7_HUMAN,P31151,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,1,0,0,0,0,,0,0
+Prohibitin-2 ,PHB2_HUMAN,Q99623,,,0,0,0,0,,0,0,0,0,0,0,,,1,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Glyceraldehyde-3-phosphate dehydrogenase ,G3P_HUMAN,P04406,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Histone H4,H4_HUMAN,P62805,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Junction plakoglobin ,PLAK_HUMAN,P14923,,,0,0,0,0,,0,0,1,1,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+"ATP synthase subunit beta, mitochondrial ",ATPB_HUMAN,P06576,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Histone H2A type 2-C ,H2A2C_HUMAN,Q16777,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Desmoglein-1 ,DSG1_HUMAN,Q02413,,,0,0,0,0,,0,0,1,1,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Calmodulin-like protein 5 ,CALL5_HUMAN,Q9NZT1,,,0,0,0,0,,0,0,1,1,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+"cDNA FLJ60424, highly similar to Junction plakoglobin",B4DE59_HUMAN,B4DE59,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Aldehyde dehydrogenase 1A1 ,AL1A1_HUMAN,P00352,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Cystatin-A ,CYTA_HUMAN,P01040,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Collagen alpha-1,CO3A1_HUMAN,P02461,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Arginase-1 ,ARGI1_HUMAN,P05089,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Polyubiquitin-B [Cleaved into: Ubiquitin],UBB_HUMAN,P0CG47,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+B-cell receptor CD22 ,CD22_HUMAN,P20273,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Filaggrin,FILA_HUMAN,P20930,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Lipocalin-1 ,LCN1_HUMAN,P31025,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Caspase-14 ,CASPE_HUMAN,P31944,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+14-3-3 protein sigma ,1433S_HUMAN,P31947,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Histone H2B type 1-C/E/F/G/I ,H2B1C_HUMAN,P62807,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+"Actin, cytoplasmic 2 ",ACTG_HUMAN,P63261,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Protein-glutamine gamma-glutamyltransferase E ,TGM3_HUMAN,Q08188,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Corneodesmosin,Q2L6G8_HUMAN,Q2L6G8,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Protease serine 1 ,Q53ZX7_HUMAN,Q53ZX7,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Filaggrin-2 ,FILA2_HUMAN,Q5D862,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+cAMP responsive element binding protein 3 like 4,Q5T4L1_HUMAN,Q5T4L1,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+RNA-binding protein 26 ,RBM26_HUMAN,Q5T8P6,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Inter-alpha-trypsin inhibitor heavy chain 2,Q5T985_HUMAN,Q5T985,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Obscurin ,OBSCN_HUMAN,Q5VST9,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Sulfated glycoprotein 2,Q6LDQ3_HUMAN,Q6LDQ3,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Suprabasin,SBSN_HUMAN,Q6UWP8,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+ATP-dependent RNA helicase DDX55 ,DDX55_HUMAN,Q8NHQ9,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Leucine-rich repeat-containing protein 15 ,LRC15_HUMAN,Q8TF66,,,0,0,0,0,,0,0,0,0,0,1,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Putative uncharacterized protein MYH16 ,MYH16_HUMAN,Q9H6N6,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+PTB domain-containing engulfment adapter protein 1 ,GULP1_HUMAN,Q9UBP9,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Serotransferrin ,TRFE_HUMAN,P02787,,,0,0,0,0,,0,0,1,1,1,0,,,1,1,0,,,,,,,1,,,,1,1,0,0,0,1,0,,0,1
+Complement factor B ,CFAB_HUMAN,P00751,,,0,1,0,0,,0,1,1,1,1,0,,,1,0,0,,,,,,,1,,,,1,1,1,0,0,1,0,,0,1
+Ceruloplasmin ,CERU_HUMAN,P00450,,,0,0,0,0,,0,1,1,1,1,0,,,1,0,0,,,1,,,,1,,,,1,1,1,0,0,1,0,,0,1
+Alpha-1-antitrypsin ,A1AT_HUMAN,P01009,,,0,0,0,0,,0,1,1,1,1,0,,,1,0,0,,,,,,,1,,,,1,1,0,0,0,1,0,,0,1
+Afamin ,AFAM_HUMAN,P43652,,,0,0,0,0,,0,1,1,1,1,1,,,1,0,0,,,,,,,0,,,,1,1,0,0,0,1,1,,0,1
+Inter-alpha-trypsin inhibitor heavy chain H4 ,ITIH4_HUMAN,Q14624,,,0,0,0,0,,0,1,1,1,1,0,,,1,0,0,,,,,,,1,,,,1,1,0,0,0,1,0,,0,0
+Serum amyloid P-component ,SAMP_HUMAN,P02743,,,0,0,0,0,,0,1,1,0,1,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,1,1,,0,0
+Haptoglobin ,HPT_HUMAN,P00738,,,1,0,0,0,,0,0,1,1,1,0,,,1,0,0,1,,1,,,,1,,,,1,1,0,0,0,1,0,,0,1
+Immunoglobulin heavy constant gamma 2 ,IGHG2_HUMAN,P01859,,,1,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,1,,,,1,1,1,0,0,1,0,,1,1
+Immunoglobulin heavy constant gamma 1 ,IGHG1_HUMAN,P01857,,,1,1,1,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,1,,,,1,1,1,0,0,1,0,,0,1
+Transthyretin ,TTHY_HUMAN,P02766,,,1,1,1,0,,0,0,1,1,1,0,,,1,0,0,1,,,,,,1,,,,1,1,0,0,0,1,0,,0,1
+Immunoglobulin kappa constant ,IGKC_HUMAN,P01834,,,0,0,1,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,1,,,,1,1,1,0,0,1,0,,0,1
+Serum amyloid A-1 protein ,SAA1_HUMAN,P0DJI8,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,1
+Serum amyloid A-2 protein ,SAA2_HUMAN,P0DJI9,,,0,0,0,0,,0,0,0,1,1,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,0
+Immunoglobulin heavy constant mu ,IGHM_HUMAN,P01871,,,0,0,0,0,,0,0,1,1,1,0,,,0,1,0,,,,,,,1,,,,1,1,1,0,0,1,1,,0,1
+Immunoglobulin kappa variable 1-5 ,KV105_HUMAN,P01602,,,0,0,0,0,,0,0,0,0,0,0,,,0,1,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,1
+Immunoglobulin lambda variable 4-3,LV403_HUMAN,A0A075B6K6,,,0,0,0,0,,0,0,0,0,0,0,,,0,1,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Gelsolin ,GELS_HUMAN,P06396,,,0,1,0,0,,1,1,1,1,1,0,,,1,0,0,,,,,,,0,,,,1,1,0,0,0,1,0,,0,1
+Immunoglobulin heavy constant alpha 1 ,IGHA1_HUMAN,P01876,,,0,0,0,0,,0,1,1,1,1,0,,,0,0,0,,,,,,,1,,,,1,1,0,0,0,1,0,,0,1
+Inter-alpha-trypsin inhibitor heavy chain H2 ,ITIH2_HUMAN,P19823,,,0,0,0,0,,0,1,1,1,1,0,,,0,0,0,,,,,,,1,,,,1,1,0,0,0,1,0,,0,1
+Complement C5 ,CO5_HUMAN,P01031,,,0,0,0,0,,0,1,1,1,1,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,1,0,,0,1
+Complement component C6,CO6_HUMAN,P13671,,,0,0,0,0,,0,1,1,1,1,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,1,0,,0,1
+Immunoglobulin heavy variable 3-23 ,HV323_HUMAN,P01764,,,0,0,0,0,,0,1,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,1,0,,0,1
+Complement component C9 [Cleaved into: Complement component C9a; Complement component C9b],CO9_HUMAN,P02748,,,0,0,0,0,,0,1,1,1,1,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,1,0,,0,1
+Complement component C7,CO7_HUMAN,P10643,,,0,0,0,0,,0,1,0,1,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,1,0,,0,1
+Insulin-like growth factor-binding protein complex acid labile subunit ,ALS_HUMAN,P35858,,,0,0,0,0,,0,1,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,1
+Heparin cofactor 2 ,HEP2_HUMAN,P05546,,,0,0,0,0,,0,1,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,1
+ATP-binding cassette sub-family E member 1 ,ABCE1_HUMAN,P61221,,,0,0,0,0,,0,1,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,0
+Phosphatidylinositol-glycan-specific phospholipase D ,PHLD_HUMAN,P80108,,,0,0,0,0,,0,1,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Immunoglobulin mu heavy chain ,IGM_HUMAN,P0DOX6,,,0,0,0,0,,0,1,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin kappa light chain ,IGK_HUMAN,P0DOX7,,,0,0,0,0,,0,1,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+ATP synthase subunit a,ATP6_HUMAN,P00846 ,,,0,0,0,0,,0,1,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Fibulin-1 ,FBLN1_HUMAN,P23142,,,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,1,,0,0
+Nebulin,NEBU_HUMAN,P20929,,,0,0,0,0,,1,0,1,1,0,0,,,0,0,0,,,,,,,1,,,,0,0,0,0,0,0,0,,0,1
+Disheveled-associated activator of morphogenesis 2,DAAM2_HUMAN,Q86T65,,,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,0
+Endoribonuclease Dicer ,DICER_HUMAN,Q9UPY3,,,0,0,0,1,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+"Jumonji, AT rich interactive domain 1B ",B3KV94_HUMAN,B3KV94,,,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Supervillin ,SVIL_HUMAN,O95425,,,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+"Propionyl-CoA carboxylase alpha chain, mitochondrial ",PCCA_HUMAN,P05165,,,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Calpastatin ,ICAL_HUMAN,P20810,,,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Fibrillin-2 [Cleaved into: Placensin],FBN2_HUMAN,P35556,,,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Peroxisomal biogenesis factor 19 ,PEX19_HUMAN,P40855,,,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Serpin H1 ,SERPH_HUMAN,P50454,,,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Serine/threonine-protein kinase Nek11 ,NEK11_HUMAN,Q8NG66,,,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Unconventional myosin-XVIIIa ,MY18A_HUMAN,Q92614,,,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Regulatory solute carrier protein family 1 member 1 ,RSCA1_HUMAN,Q92681,,,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+"Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1 ",MAGI1_HUMAN,Q96QZ7,,,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+tRNA-specific adenosine deaminase 1 ,ADAT1_HUMAN,Q9BUB4,,,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Brother of CDO ,BOC_HUMAN,Q9BWV1,,,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+ATP-dependent RNA helicase DDX24 ,DDX24_HUMAN,Q9GZR7,,,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Palmitoyltransferase ZDHHC11 ,ZDH11_HUMAN,Q9H8X9,,,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Dynein axonemal heavy chain 9 ,DYH9_HUMAN,Q9NYC9,,,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Rho GTPase-activating protein 23 ,RHG23_HUMAN,Q9P227,,,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Zinc finger protein 180 ,ZN180_HUMAN,Q9UJW8,,,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Tumor necrosis factor,TNFA_HUMAN,P01375 ,,,0,0,0,0,1,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Interleukin-6,IL6_HUMAN,P05231 ,,,0,0,0,0,1,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Growth-regulated alpha protein,GROA_HUMAN,P09341 ,,,0,0,0,0,1,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Interleukin-8,IL8_HUMAN,P10145 ,,,0,0,0,0,1,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+C-C motif chemokine 4,CCL4_HUMAN,P13236 ,,,0,0,0,0,1,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Immunoglobulin kappa variable 2D-40 ,KVD40_HUMAN,P01614,,,1,0,1,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+"Keratin, type II cytoskeletal 1 ",K2C1_HUMAN,P04264,,,1,1,1,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+"Keratin, type I cytoskeletal 10 ",K1C10_HUMAN,P13645,,,1,1,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+"Keratin, type I cytoskeletal 9 ",K1C9_HUMAN,P35527,,,1,1,1,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+"Keratin, type I cytoskeletal 14 ",K1C14_HUMAN,P02533,,,1,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Olfactory receptor 2T6 ,OR2T6_HUMAN,Q8NHC8,,,1,0,0,0,,0,0,0,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Probable helicase senataxin ,SETX_HUMAN,Q7Z333,,,1,0,1,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Talin-2,TLN2_HUMAN,Q9Y4G6,,,1,1,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Olfactory receptor 8D2 ,OR8D2_HUMAN,Q9GZM6,,,1,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Cell division control protein 45 homolog ,CDC45_HUMAN,O75419,,,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Prostate-specific antigen ,KLK3_HUMAN,P07288,,,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Alpha-1B adrenergic receptor ,ADA1B_HUMAN,P35368,,,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+"cAMP-specific 3',5'-cyclic phosphodiesterase 4B ",PDE4B_HUMAN,Q07343,,,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Calcium-activated potassium channel subunit alpha-1 ,KCMA1_HUMAN,Q12791,,,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Zinc finger protein Rlf ,RLF_HUMAN,Q13129,,,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Serine-protein kinase ATM ,ATM_HUMAN,Q13315,,,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+DNA damage-binding protein 1 ,DDB1_HUMAN,Q16531,,,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Gap junction gamma-2 protein ,CXG2_HUMAN,Q5T442,,,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Zinc finger protein PLAG1 ,PLAG1_HUMAN,Q6DJT9,,,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+CUB domain-containing protein 1 ,CDCP1_HUMAN,Q9H5V8,,,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Gamma-aminobutyric acid type B receptor subunit 1 ,GABR1_HUMAN,Q9UBS5,,,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Zinc finger protein 232 ,ZN232_HUMAN,Q9UNY5,,,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Immunoglobulin heavy constant gamma 3 ,IGHG3_HUMAN,P01860,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,1,,,,1,1,1,0,0,1,0,,1,1
+Immunoglobulin heavy constant gamma 4 ,IGHG4_HUMAN,P01861,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,1,1,1,0,0,0,0,,1,1
+N-acetylmuramoyl-L-alanine amidase ,PGRP2_HUMAN,Q96PD5,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,1,,,,1,1,0,0,0,1,0,,0,1
+Immunoglobulin heavy variable 3-13 ,HV313_HUMAN,P01766,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,1,,,,1,1,0,0,0,1,0,,0,0
+Immunoglobulin kappa variable 3-20 ,KV320_HUMAN,P01619,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,1,0,,0,1
+Immunoglobulin kappa variable 4-1 ,KV401_HUMAN,P06312,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,1,1,1,0,0,0,0,,0,1
+Lumican ,LUM_HUMAN,P51884,,,0,0,0,0,,0,0,1,1,1,0,,,1,0,0,,,,,,,0,,,,1,0,0,0,0,1,0,,0,1
+Titin ,TITIN_HUMAN,Q8WZ42,,,0,0,0,1,,0,0,0,1,0,0,,,0,0,0,,,,,,,1,,,,1,1,0,0,0,0,0,,0,0
+Immunoglobulin heavy constant alpha 2 ,IGHA2_HUMAN,P01877,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,1,0,,0,0
+Complement component C8 alpha chain ,CO8A_HUMAN,P07357,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,1,0,,0,0
+Complement factor I ,CFAI_HUMAN,P05156,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,1,0,,0,1
+Tetranectin ,TETN_HUMAN,P05452,,,0,0,0,0,,0,0,1,1,1,1,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,1,0,,0,1
+Immunoglobulin lambda constant 2 ,IGLC2_HUMAN,P0DOY2,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,0,0,,0,1
+Alpha-1-acid glycoprotein 2 ,A1AG2_HUMAN,P19652,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,1
+Carboxypeptidase N subunit 2 ,CPN2_HUMAN,P22792,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,1,0,,0,1
+Pigment epithelium-derived factor ,PEDF_HUMAN,P36955,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,1,0,0,0,1,0,,0,1
+Immunoglobulin lambda variable 3-21 ,LV321_HUMAN,P80748,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,0,0,,0,1
+Immunoglobulin lambda variable 3-19 ,LV319_HUMAN,P01714,,,0,0,0,0,,0,0,0,0,1,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,0,0,,0,1
+Immunoglobulin lambda constant 1 ,IGLC1_HUMAN,P0CG04,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,0,0,,0,0
+Immunoglobulin lambda constant 3 ,IGLC3_HUMAN,P0DOY3,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,0,0,,0,0
+Complement factor H-related protein 1 ,FHR1_HUMAN,Q03591,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,0,0,,0,0
+Immunoglobulin kappa variable 1-33 ,KV133_HUMAN,P01594,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,0,0,,0,1
+Immunoglobulin lambda variable 1-47 ,LV147_HUMAN,P01700,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,0,0,,0,1
+Immunoglobulin heavy variable 1-46 ,HV146_HUMAN,P01743,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,0,0,,0,1
+Immunoglobulin heavy variable 3-7 ,HV307_HUMAN,P01780,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,0,0,,0,1
+Complement C1q subcomponent subunit B,C1QB_HUMAN,P02746,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,0,0,,0,1
+Extracellular matrix protein 1 ,ECM1_HUMAN,Q16610,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,1,0,,0,1
+Inter-alpha-trypsin inhibitor heavy chain H3 ,ITIH3_HUMAN,Q06033,,,0,0,0,0,,0,0,0,1,1,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,1,0,,0,0
+Neuroblast differentiation-associated protein AHNAK ,AHNK_HUMAN,Q09666,,,0,0,0,0,,0,0,1,1,0,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,0,0,,0,0
+Immunoglobulin lambda-like polypeptide 5 ,IGLL5_HUMAN,B9A064,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,1,0,0,1,0,,0,0
+Immunoglobulin kappa variable 1D-33 ,KVD33_HUMAN,P01593,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,1,0,,0,0
+Immunoglobulin heavy variable 3-33 ,HV333_HUMAN,P01772,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,1,,,,0,0,0,0,0,1,0,,0,0
+Phosphatidylcholine-sterol acyltransferase ,LCAT_HUMAN,P04180,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,1,0,,0,0
+Complement component C8 beta chain ,CO8B_HUMAN,P07358,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,1,0,,0,0
+Selenoprotein P ,SEPP1_HUMAN,P49908,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,1,0,,0,0
+Dystonin ,DYST_HUMAN,Q03001,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,0,0,,0,0
+Carboxypeptidase B2 ,CBPB2_HUMAN,Q96IY4,,,0,0,0,0,,0,0,0,0,0,0,,,1,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Rho GTPase-activating protein 39,RHG39_HUMAN,Q9C0H5,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,1,0,0,0,0,0,,0,0
+Fetuin-B ,FETUB_HUMAN,Q9UGM5,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,1,0,,0,0
+Immunoglobulin J chain ,IGJ_HUMAN,P01591,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,1,,0,1
+Complement component C8 gamma chain,CO8G_HUMAN,P07360,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,1
+"Actin, cytoplasmic 1 ",ACTB_HUMAN,P60709,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,1
+Cystatin-C ,CYTC_HUMAN,P01034,,,0,1,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Attractin ,ATRN_HUMAN,O75882,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,1,,0,0
+Immunoglobulin kappa variable 2D-28 ,KVD28_HUMAN,P01615,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Sex hormone-binding globulin ,SHBG_HUMAN,P04278,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Corticosteroid-binding globulin ,CBG_HUMAN,P08185,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Glutathione peroxidase 3 ,GPX3_HUMAN,P22352,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Immunoglobulin kappa variable 3-15 ,KV315_HUMAN,P01624,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,1,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin lambda variable 1-40 ,LV140_HUMAN,P01703,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,1
+Immunoglobulin heavy variable 1-69 ,HV169_HUMAN,P01742,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,1
+Immunoglobulin heavy variable 3-48 ,HV348_HUMAN,P01763,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,1,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin heavy constant delta ,IGHD_HUMAN,P01880,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,1
+Complement C1q subcomponent subunit C,C1QC_HUMAN,P02747,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,1
+Catalase ,CATA_HUMAN,P04040,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,1,0,0,0,0,,0,1
+Immunoglobulin kappa variable 1D-39 ,KVD39_HUMAN,P04432,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,1
+Fructose-bisphosphate aldolase B ,ALDOB_HUMAN,P05062,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,1
+Complement C2 ,CO2_HUMAN,P06681,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,1
+Immunoglobulin heavy variable 1-2 ,HV102_HUMAN,P23083,,,0,0,0,0,,0,0,0,0,0,1,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,1
+Kallistatin ,KAIN_HUMAN,P29622,,,0,0,0,0,,0,0,0,0,0,1,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,1
+"Hydroxymethylglutaryl-CoA synthase, mitochondrial ",HMCS2_HUMAN,P54868,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Eukaryotic translation initiation factor 5A-1-like ,IF5AL_HUMAN,Q6IS14,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Carbonic anhydrase 1 ,CAH1_HUMAN,P00915,,,0,0,0,0,,0,0,0,1,1,0,,,1,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Complement factor H-related protein 2 ,FHR2_HUMAN,P36980,,,0,0,0,0,,0,0,0,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Galectin-7 ,LEG7_HUMAN,P47929,,,0,0,0,0,,0,0,1,1,0,0,,,0,0,0,,,,,,,0,,,,0,0,1,0,0,0,0,,0,0
+Fatty acid-binding protein 5 ,FABP5_HUMAN,Q01469,,,0,0,0,0,,0,0,1,1,0,0,,,0,0,0,,,,,,,0,,,,0,0,1,0,0,0,0,,0,0
+Galectin-3-binding protein ,LG3BP_HUMAN,Q08380,,,0,0,0,0,,0,0,1,0,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Platelet factor 4 variant ,PF4V_HUMAN,P10720,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Nuclear receptor coactivator 3 ,NCOA3_HUMAN,Q9Y6Q9,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,1,0,0,0,0,0,,0,0
+Immunoglobulin heavy variable 1-3,HV103_HUMAN,A0A0C4DH29,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Probable non-functional immunoglobulin heavy variable 3-16,HV316_HUMAN,A0A0C4DH30,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Immunoglobulin heavy variable 3-20,HV320_HUMAN,A0A0C4DH32,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,1,,,,0,0,0,0,0,0,0,,0,0
+NBAS subunit of NRZ tethering complex ,NBAS_HUMAN,A2RRP1,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,1,0,0,0,0,0,,0,0
+POTE ankyrin domain family member F ,POTEF_HUMAN,A5A3E0,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Transcription factor TFIIIB component B'' homolog ,BDP1_HUMAN,A6H8Y1,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,0
+Collagen alpha-5,CO6A5_HUMAN,A8TX70,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Adhesion G protein-coupled receptor B2 ,AGRB2_HUMAN,O60241,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,1,0,0,0,0,0,,0,0
+Carboxypeptidase D ,CBPD_HUMAN,O75976,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,1,0,0,0,0,0,,0,0
+Cystatin-F ,CYTF_HUMAN,O76096,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Protein furry homolog-like ,FRYL_HUMAN,O94915,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Centrosomal protein of 152 kDa ,CE152_HUMAN,O94986,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,1,,,,0,0,0,0,0,0,0,,0,0
+Phospholipid-transporting ATPase ABCA1 ,ABCA1_HUMAN,O95477,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,1,0
+Insulin-like growth factor II ,IGF2_HUMAN,P01344,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Immunoglobulin heavy variable 3-53 ,HV353_HUMAN,P01767,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,1,,,,0,0,0,0,0,0,0,,0,0
+Immunoglobulin heavy variable 3-30 ,HV330_HUMAN,P01768,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Band 3 anion transport protein ,B3AT_HUMAN,P02730,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,1,0,0,0,0,,0,0
+Plasma serine protease inhibitor ,IPSP_HUMAN,P05154,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Thyroxine-binding globulin ,THBG_HUMAN,P05543,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Immunoglobulin kappa variable 2-30 ,KV230_HUMAN,P06310,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+L-lactate dehydrogenase C chain ,LDHC_HUMAN,P07864,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Protein BNIP5,BNIP5_HUMAN,P0C671,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+S-arrestin ,ARRS_HUMAN,P10523,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Coagulation factor V ,FA5_HUMAN,P12259,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Tissue factor ,TF_HUMAN,P13726,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,1,,0,0
+Plastin-2 ,PLSL_HUMAN,P13796,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+L-selectin ,LYAM1_HUMAN,P14151,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Carboxypeptidase N catalytic chain ,CBPN_HUMAN,P15169,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Insulin-like growth factor-binding protein 3 ,IBP3_HUMAN,P17936,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Vascular cell adhesion protein 1 ,VCAM1_HUMAN,P19320,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+"ATP synthase subunit alpha, mitochondrial ",ATPA_HUMAN,P25705,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+AT-rich interactive domain-containing protein 4A ,ARI4A_HUMAN,P29374,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,1,,0,0
+Peroxiredoxin-2 ,PRDX2_HUMAN,P32119,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,1,0,0,0,0,,0,0
+Cadherin-5 ,CADH5_HUMAN,P33151,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Thrombospondin-2,TSP2_HUMAN,P35442,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,1,0,0,0,0,0,,0,0
+"Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial ",ODO2_HUMAN,P36957,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+"Stress-70 protein, mitochondrial ",GRP75_HUMAN,P38646,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Exosome RNA helicase MTR4 ,MTREX_HUMAN,P42285,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,1,0,0,0,0,0,,0,0
+Biotinidase ,BTD_HUMAN,P43251,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Cytosolic phospholipase A2 ,PA24A_HUMAN,P47712,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,0
+Rap1 GTPase-activating protein 1 ,RPGP1_HUMAN,P47736,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,0
+Mannan-binding lectin serine protease 1 ,MASP1_HUMAN,P48740,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Protein-glutamine gamma-glutamyltransferase 4 ,TGM4_HUMAN,P49221,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,1,0,0,0,0,,0,0
+Neutrophil defensin 3 ,DEF3_HUMAN,P59666,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Ubiquitin-ribosomal protein eS31 fusion protein ,RS27A_HUMAN,P62979,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+"Actin, alpha cardiac muscle 1 ",ACTC_HUMAN,P68032,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Basement membrane-specific heparan sulfate proteoglycan core protein ,PGBM_HUMAN,P98160,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Mucin-2 ,MUC2_HUMAN,Q02817,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,0
+Hepatocyte growth factor activator ,HGFA_HUMAN,Q04756,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Sterol regulatory element-binding protein 2 ,SRBP2_HUMAN,Q12772,,,0,0,0,0,,0,0,0,0,0,1,,,0,0,0,,,,,,,0,,,,0,1,0,0,0,0,0,,0,0
+Apolipoprotein F ,APOF_HUMAN,Q13790,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Protocadherin Fat 1 ,FAT1_HUMAN,Q14517,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,0
+Hyaluronan-binding protein 2 ,HABP2_HUMAN,Q14520,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Phosphoribosyl pyrophosphate synthase-associated protein 1 ,KPRA_HUMAN,Q14558,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,1,0,0,0,0,0,,0,0
+Potassium voltage-gated channel subfamily B member 1 ,KCNB1_HUMAN,Q14721,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,0
+Serum paraoxonase/lactonase 3 ,PON3_HUMAN,Q15166,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Transforming growth factor-beta-induced protein ig-h3 ,BGH3_HUMAN,Q15582,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Thyroid receptor-interacting protein 11 ,TRIPB_HUMAN,Q15643,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+WD repeat-containing protein 81,WDR81_HUMAN,Q562E7,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+DENN domain-containing protein 4C,DEN4C_HUMAN,Q5VZ89,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,0
+Armadillo repeat-containing protein 3 ,ARMC3_HUMAN,Q5W041,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,0
+Protein virilizer homolog,VIR_HUMAN,Q69YN4,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,1,0,0,0,0,0,,0,0
+Serine/threonine-protein kinase MRCK gamma ,MRCKG_HUMAN,Q6DT37,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,0
+Microtubule-associated serine/threonine-protein kinase 2 ,MAST2_HUMAN,Q6P0Q8,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,1,0,0,0,0,0,,0,0
+Peptidase inhibitor 16 ,PI16_HUMAN,Q6UXB8,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Zinc finger protein basonuclin-2,BNC2_HUMAN,Q6ZN30,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,1,0,0,0,0,0,,0,0
+Neurobeachin-like protein 1 ,NBEL1_HUMAN,Q6ZS30,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,0
+"Neuroligin-4, X-linked ",NLGNX_HUMAN,Q8N0W4,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,1,0,0,0,0,0,,0,0
+Cardiomyopathy-associated protein 5 ,CMYA5_HUMAN,Q8N3K9,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,1,,,,0,0,0,0,0,0,0,,0,0
+Procollagen galactosyltransferase 1 ,GT251_HUMAN,Q8NBJ5,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,0
+InaD-like protein ,INADL_HUMAN,Q8NI35,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Dynein axonemal heavy chain 7 ,DYH7_HUMAN,Q8WXX0,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,0
+Rho GTPase-activating protein 45 [Cleaved into: Minor histocompatibility antigen HA-1 ,HMHA1_HUMAN,Q92619,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Histone-lysine N-methyltransferase EZH1 ,EZH1_HUMAN,Q92800,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,1,,,,0,0,0,0,0,0,0,,0,0
+Coiled-coil domain-containing protein 127,CC127_HUMAN,Q96BQ5,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+GTP-binding protein Di-Ras2 ,DIRA2_HUMAN,Q96HU8,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Beta-Ala-His dipeptidase ,CNDP1_HUMAN,Q96KN2,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+"Histone-lysine N-methyltransferase, H3 lysine-36 specific ",NSD1_HUMAN,Q96L73,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,0
+Cilia- and flagella-associated protein 44 ,CFA44_HUMAN,Q96MT7,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,0
+Protein misato homolog 1,MSTO1_HUMAN,Q9BUK6,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,1,0,0,0,0,0,,0,0
+Chromodomain-helicase-DNA-binding protein 8 ,CHD8_HUMAN,Q9HCK8,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,1,0,0,0,0,0,,0,0
+Protocadherin-12 ,PCD12_HUMAN,Q9NPG4,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,1,0,0,0,0,0,,0,0
+SH3 domain-binding protein 4 ,SH3B4_HUMAN,Q9P0V3,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,1,,,,0,0,0,0,0,0,0,,0,0
+Collagen alpha-1,COKA1_HUMAN,Q9P218,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,1,,,,0,0,0,0,0,0,0,,0,0
+SUMO-activating enzyme subunit 1 ,SAE1_HUMAN,Q9UBE0,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Zinc finger transcription factor Trps1 ,TRPS1_HUMAN,Q9UHF7,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,1,,,,0,0,0,0,0,0,0,,0,0
+TRAF2 and NCK-interacting protein kinase ,TNIK_HUMAN,Q9UKE5,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,0
+"Microtubule-actin cross-linking factor 1, isoforms 1/2/3/4/5 ",MACF1_HUMAN,Q9UPN3,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,1,0,0,0,0,0,0,,0,0
+Hepatoma-derived growth factor-related protein 3 ,HDGR3_HUMAN,Q9Y3E1,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Lymphatic vessel endothelial hyaluronic acid receptor 1 ,LYVE1_HUMAN,Q9Y5Y7,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,1,0,,0,0
+Protein piccolo ,PCLO_HUMAN,Q9Y6V0,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,1,0,0,0,0,0,,0,0
+"Keratin, type II cytoskeletal 6A ",K2C6A_HUMAN,P02538,,,0,1,1,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Serine protease 1 ,TRY1_HUMAN,P07477,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Thrombospondin-1 ,TSP1_HUMAN,P07996,,,0,0,0,0,,0,0,0,0,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+"Keratin, type I cytoskeletal 16 ",K1C16_HUMAN,P08779,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+"Keratin, type II cytoskeletal 5 ",K2C5_HUMAN,P13647,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Trypsin-3 ,TRY3_HUMAN,P35030,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Ficolin-3,FCN3_HUMAN,O75636,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Ig kappa chain V-III region VG precursor,KV311_HUMAN,P04433 ,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+V ,RAG1_HUMAN,P15918,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Pregnancy zone protein precursor,PZP_HUMAN,P20742,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Breast cancer type 2 susceptibility protein,BRCA2_HUMAN,P51587,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+"Actin, aortic smooth muscle",ACTA_HUMAN,P62736 ,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Centromeric protein E,CENPE_HUMAN,Q02224,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Golgin subfamily A member 4,GOGA4_HUMAN,Q13439,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+"Complement C1q subcomponent, B chain precursor",Q6LDZ7_HUMAN,Q6LDZ7 ,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+DNA strand exchange protein SEP1,XRN1_HUMAN,Q8IZH2,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Megakaryocyte stimulating factor,PRG4_HUMAN,Q92954 ,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Kinesin-like protein KIF12,KIF12_HUMAN,Q96FN5,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Baculoviral IAP repeat-containing protein 6,BIRC6_HUMAN,Q9NR09,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Cadherin EGF LAG seven pass G-type receptor 1 precursor,CELR1_HUMAN,Q9NYQ6,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Myosin-reactive immunoglobulin light chain variable region,Q9UL70_HUMAN,Q9UL70 ,,,0,0,0,0,,0,0,1,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Immunoglobulin lambda variable 4-69,LV469_HUMAN,A0A075B6H9,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin lambda variable 8-61,LV861_HUMAN,A0A075B6I0,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin lambda variable 4-60,LV460_HUMAN,A0A075B6I1,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin lambda variable 10-54,LVX54_HUMAN,A0A075B6I4,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin lambda variable 2-18,LV218_HUMAN,A0A075B6J9,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin lambda variable 3-10,LV310_HUMAN,A0A075B6K4,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin lambda variable 3-9,LV39_HUMAN,A0A075B6K5,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin kappa variable 1-27,KV127_HUMAN,A0A075B6S5,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin heavy variable 4-30-2,HV432_HUMAN,A0A087WSY4,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin kappa variable 3D-15,KVD15_HUMAN,A0A087WSY6,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin kappa variable 3D-11,KVD11_HUMAN,A0A0A0MRZ8,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin heavy variable 3-49,HV349_HUMAN,A0A0A0MS15,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin heavy variable 6-1,HV601_HUMAN,A0A0B4J1U7,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin heavy variable 3-15,HV315_HUMAN,A0A0B4J1V0,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin heavy variable 2-26,HV226_HUMAN,A0A0B4J1V2,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin heavy variable 3-74,HV374_HUMAN,A0A0B4J1X5,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin lambda variable 9-49,LV949_HUMAN,A0A0B4J1Y8,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin heavy variable 3-72,HV372_HUMAN,A0A0B4J1Y9,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin kappa variable 1D-13,KVD13_HUMAN,A0A0B4J2D9,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin kappa variable 3D-20,KVD20_HUMAN,A0A0C4DH25,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin heavy variable 1-18,HV118_HUMAN,A0A0C4DH31,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin heavy variable 5-51,HV551_HUMAN,A0A0C4DH38,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin heavy variable 5-10-1,HV5X1_HUMAN,A0A0J9YXX1,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin lambda constant 7 ,IGLC7_HUMAN,A0M8Q6,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin kappa variable 2-29,KV229_HUMAN,A2NJV5,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Protein FAM83G ,FA83G_HUMAN,A6ND36,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Sialic acid-binding Ig-like lectin 16 ,SIG16_HUMAN,A6NMB1,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Putative annexin A2-like protein ,AXA2L_HUMAN,A6NMY6,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Sulfhydryl oxidase 1 ,QSOX1_HUMAN,O00391,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+PR domain zinc finger protein 1 ,PRDM1_HUMAN,O75626,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Alcohol dehydrogenase 1C ,ADH1G_HUMAN,P00326,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+L-lactate dehydrogenase A chain ,LDHA_HUMAN,P00338,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Argininosuccinate synthase ,ASSY_HUMAN,P00966,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin lambda variable 1-51 ,LV151_HUMAN,P01701,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin lambda variable 2-14 ,LV214_HUMAN,P01704,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin lambda variable 2-23 ,LV223_HUMAN,P01705,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin lambda variable 2-11 ,LV211_HUMAN,P01706,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin lambda variable 3-1 ,LV301_HUMAN,P01715,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin lambda variable 3-25 ,LV325_HUMAN,P01717,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin lambda variable 3-27 ,LV327_HUMAN,P01718,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Polymeric immunoglobulin receptor ,PIGR_HUMAN,P01833,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Platelet factor 4 ,PLF4_HUMAN,P02776,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Annexin A1 ,ANXA1_HUMAN,P04083,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin kappa variable 1-16 ,KV116_HUMAN,P04430,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+"Keratin, type II cytoskeletal 8 ",K2C8_HUMAN,P05787,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Alpha-enolase ,ENOA_HUMAN,P06733,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Macrophage colony-stimulating factor 1 receptor ,CSF1R_HUMAN,P07333,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Uromodulin ,UROM_HUMAN,P07911,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Low affinity immunoglobulin gamma Fc region receptor III-A ,FCG3A_HUMAN,P08637,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Olfactory receptor 56A5,O56A5_HUMAN,P0C7T3,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin alpha-2 heavy chain ,IGA2_HUMAN,P0DOX2,1,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin heavy variable 3-30-3,HVC33_HUMAN,P0DP02,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin heavy variable 3-43D,HV43D_HUMAN,P0DP04,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Heat shock cognate 71 kDa protein ,HSP7C_HUMAN,P11142,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Elongation factor 2 ,EF2_HUMAN,P13639,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Immunoglobulin lambda-like polypeptide 1 ,IGLL1_HUMAN,P15814,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Lipopolysaccharide-binding protein ,LBP_HUMAN,P18428,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+DNA mismatch repair protein Msh3 ,MSH3_HUMAN,P20585,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Ubiquitin-like modifier-activating enzyme 1 ,UBA1_HUMAN,P22314,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+"Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial ",AL4A1_HUMAN,P30038,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+"Carbamoyl-phosphate synthase [ammonia], mitochondrial ",CPSM_HUMAN,P31327,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+"Keratin, type II cytoskeletal 2 epidermal ",K22E_HUMAN,P35908,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Adapter molecule crk ,CRK_HUMAN,P46108,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Serpin B4 ,SPB4_HUMAN,P48594,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Triosephosphate isomerase ,TPIS_HUMAN,P60174,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Eukaryotic initiation factor 4A-I ,IF4A1_HUMAN,P60842,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+"10 kDa heat shock protein, mitochondrial ",CH10_HUMAN,P61604,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Peptidyl-prolyl cis-trans isomerase A ,PPIA_HUMAN,P62937,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Ubiquitin-ribosomal protein eL40 fusion protein ,RL40_HUMAN,P62987,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Tubulin alpha-1B chain ,TBA1B_HUMAN,P68363,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+"4-aminobutyrate aminotransferase, mitochondrial ",GABT_HUMAN,P80404,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Large ribosomal subunit protein eL19 ,RL19_HUMAN,P84098,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+"Keratin, type I cytoskeletal 17 ",K1C17_HUMAN,Q04695,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Elongation factor 1-alpha 2 ,EF1A2_HUMAN,Q05639,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+"cAMP-specific 3',5'-cyclic phosphodiesterase 4D ",PDE4D_HUMAN,Q08499,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Tubulin beta-3 chain ,TBB3_HUMAN,Q13509,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Sorting nexin-1,SNX1_HUMAN,Q13596,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Tubulin beta-2A chain ,TBB2A_HUMAN,Q13885,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Transcription cofactor vestigial-like protein 4 ,VGLL4_HUMAN,Q14135,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+UDP-glucose 4-epimerase ,GALE_HUMAN,Q14376,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+"Keratin, type II cuticular Hb1 ",KRT81_HUMAN,Q14533,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Protein disulfide-isomerase A6 ,PDIA6_HUMAN,Q15084,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Corneodesmosin ,CDSN_HUMAN,Q15517,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Histone H2B type 2-E ,H2B2E_HUMAN,Q16778,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Tubulin beta-8 chain ,TBB8_HUMAN,Q3ZCM7,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Ankyrin repeat domain-containing protein SOWAHC ,SWAHC_HUMAN,Q53LP3,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Uncharacterized protein C18orf63,CR063_HUMAN,Q68DL7,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Anoctamin-7 ,ANO7_HUMAN,Q6IWH7,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Putative uncharacterized protein encoded by LINC00299,CB046_HUMAN,Q6ZSB3,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Inhibitor of nuclear factor kappa-B kinase-interacting protein ,IKIP_HUMAN,Q70UQ0,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+T-complex protein 1 subunit zeta-2 ,TCPW_HUMAN,Q92526,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Betaine--homocysteine S-methyltransferase 1 ,BHMT1_HUMAN,Q93088,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Mediator of RNA polymerase II transcription subunit 30 ,MED30_HUMAN,Q96HR3,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+3-hydroxyacyl-CoA dehydrogenase type-2 ,HCD2_HUMAN,Q99714,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+T-complex protein 1 subunit eta ,TCPH_HUMAN,Q99832,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Helicase with zinc finger domain 2 ,HELZ2_HUMAN,Q9BYK8,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+L-lactate dehydrogenase A-like 6B ,LDH6B_HUMAN,Q9BYZ2,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+NIF3-like protein 1 ,NIF3L_HUMAN,Q9GZT8,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Testis-specific Y-encoded-like protein 2 ,TSYL2_HUMAN,Q9H2G4,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+PI-PLC X domain-containing protein 1,PLCX1_HUMAN,Q9NUJ7,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Armadillo repeat-containing X-linked protein 1 ,ARMX1_HUMAN,Q9P291,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+26S proteasome non-ATPase regulatory subunit 13 ,PSD13_HUMAN,Q9UNM6,,,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,1
+Zinc finger protein 161 homolog,ZBT14_HUMAN,O43829,,,0,0,0,0,,0,0,0,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Apolipoprotein,APOA_HUMAN,P08519,,,0,0,0,0,,0,0,1,1,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Glutathione S-transferase P,GSTP1_HUMAN,P09211,,,0,0,0,0,,0,0,0,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+"Pyruvate kinase, M1 isozyme",KPYM_HUMAN,P14618,,,0,0,0,0,,0,0,1,1,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+"Rod cGMP-specific 3’,5’-cyclic phosphodiesterase alpha- subunit",PDE6A_HUMAN,P16499,,,0,0,0,0,,0,0,1,0,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Coatomer beta subunit,COPB_HUMAN,P53618,,,0,0,0,0,,0,0,1,1,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Afadin,AFAD_HUMAN,P55196,,,0,0,0,0,,0,0,1,0,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+DNA-dependent protein kinase catalytic subunit,PRKDC_HUMAN,P78527,,,0,0,0,0,,0,0,1,0,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Ankyrin 2,ANK2_HUMAN,Q01484,,,0,0,0,0,,0,0,1,0,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Cullin-1,CUL1_HUMAN,Q13616,,,0,0,0,0,,0,0,1,0,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Intersectin 1,ITSN1_HUMAN,Q15811,,,0,0,0,0,,0,0,0,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Tumor associated hydroquinone oxidase,ENOX2_HUMAN,Q16206,,,0,0,0,0,,0,0,1,0,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Proline-rich protein 4 precursor,PROL4_HUMAN,Q16378,,,0,0,0,0,,0,0,1,0,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+RING finger protein 20,BRE1A_HUMAN,Q5VTR2 ,,,0,0,0,0,,0,0,0,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Abnormal spindles,ASPM_HUMAN,Q8IZT6 ,,,0,0,0,0,,0,0,0,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Ceramide kinase,CERK1_HUMAN,Q8TCT0,,,0,0,0,0,,0,0,0,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Canalicular multispecific organic anion transporter 1,MRP2_HUMAN,Q92887,,,0,0,0,0,,0,0,0,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Amyloid lambda 6 light chain variable region PIP ,Q96JD1_HUMAN,Q96JD1 ,,,0,0,0,0,,0,0,0,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Ankyrin repeat and SOCS box containing protein 2,ASB2_HUMAN,Q96Q27,,,0,0,0,0,,0,0,1,0,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Anion exchange protein 4,B3A4_HUMAN,Q96Q91,,,0,0,0,0,,0,0,1,0,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+CDK5 regulatory subunit associated protein 2,CK5P2_HUMAN,Q96SN8,,,0,0,0,0,,0,0,0,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Extracellular glycoprotein lacritin precursor,LACRT_HUMAN,Q9GZZ8 ,,,0,0,0,0,,0,0,1,0,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+LIM/homeobox protein Lhx3,LHX3_HUMAN,Q9UBR4,,,0,0,0,0,,0,0,0,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+TRABID protein,ZRAN1_HUMAN,Q9UGI0,,,0,0,0,0,,0,0,1,1,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+ALK tyrosine kinase receptor precursor,ALK_HUMAN,Q9UM73,,,0,0,0,0,,0,0,0,1,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Glial fibrillary acidic protein ,GFAP_HUMAN,P14136,,,0,1,1,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Rho guanine nucleotide exchange factor TIAM1 ,TIAM1_HUMAN,Q13009,,,0,1,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Queuine tRNA-ribosyltransferase accessory subunit 2 ,QTRT2_HUMAN,Q9H974,,,0,1,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Mammaglobin-B,SG2A1_HUMAN,O75556,,,0,0,0,0,,0,0,0,1,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+C-reactive protein precursor,CRP_HUMAN,P02741,,,0,0,0,0,,0,0,0,0,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Profilin I,PROF1_HUMAN,P07737 ,,,0,0,0,0,,0,0,0,0,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Monocyte differentiation antigen CD14 precursor,CD14_HUMAN,P08571,,,0,0,0,0,,0,0,0,0,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Complement factor H-related protein 3 precursor,FHR3_HUMAN,Q02985,,,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Fibrinogen-like protein 1 precursor,FGL1_HUMAN,Q08830,,,0,0,0,0,,0,0,0,1,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Plakophilin 1,PKP1_HUMAN,Q13835,,,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Ribosome biogenesis protein BMS1 homolog,BMS1_HUMAN,Q14692,,,0,0,0,0,,0,0,0,1,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Lipin 1,LPIN1_HUMAN,Q14693 ,,,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Ficolin 2 precursor,FCN2_HUMAN,Q15485,,,0,0,0,0,,0,0,0,0,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Liprin-beta1,LIPB1_HUMAN,Q86W92,,,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Myosin XVIIIB,MY18B_HUMAN,Q8IUG5 ,,,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Similar to RIKEN cDNA 9230116B18 gene [Homo sapiens],ACBD7_HUMAN,Q8N6N7 ,,,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Nesprin 1,SYNE1_HUMAN,Q8NF91,,,0,0,0,0,,0,0,0,1,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Ankyrin repeat and SOCS box containing protein 13,ASB13_HUMAN,Q8WXK3 ,,,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Exocyst complex component 2,EXOC2_HUMAN,Q96KP1,,,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+CDK5 regulatory subunit associated protein 1,CK5P1_HUMAN,Q96SZ6,,,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+5-methyltetrahydrofolate—homocysteine methyltransferase,METH_HUMAN,Q99707,,,0,0,0,0,,0,0,0,0,1,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Brain tumor associated protein NAG14,LRRC4_HUMAN,Q9HBW1 ,,,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Synaptotagmin-like protein 2,SYTL2_HUMAN,Q9HCH5,,,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Disks large-associated protein 2,DLGP2_HUMAN,Q9P1A6,,,0,0,0,0,,0,0,0,1,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Talin 1,TLN1_HUMAN,Q9Y490,,,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+CCR4-NOT transcription complex subunit 1 ,CNOT1_HUMAN,A5YKK6,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Linker for activation of T-cells family member 1 ,LAT_HUMAN,O43561,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+SH3 domain-binding protein 5 ,3BP5_HUMAN,O60239,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Zinc finger protein 292,ZN292_HUMAN,O60281,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Nephrin ,NPHN_HUMAN,O60500,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Vinexin ,VINEX_HUMAN,O60504,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+LIM domain-binding protein 3 ,LDB3_HUMAN,O75112,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+GRB2-related adapter protein 2 ,GRAP2_HUMAN,O75791,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Complement factor D ,CFAD_HUMAN,P00746,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+"Keratin, type II cytoskeletal 6B ",K2C6B_HUMAN,P04264,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Coagulation factor VII ,FA7_HUMAN,P08709,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Dystrophin,DMD_HUMAN,P11532,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Myosin light chain 4 ,MYL4_HUMAN,P12829,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+"Keratin, type I cytoskeletal 13 ",K1C13_HUMAN,P13646,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Integrin alpha-2 ,ITA2_HUMAN,P17301,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Integrin beta-5,ITB5_HUMAN,P18084,,,0,0,1,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+N,ASPG_HUMAN,P20933,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Netrin receptor DCC ,DCC_HUMAN,P43146,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Olfactory receptor 3A2 ,OR3A2_HUMAN,P47893,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Diacylglycerol kinase gamma ,DGKG_HUMAN,P49619,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+E3 SUMO-protein ligase RanBP2 ,RBP2_HUMAN,P49792,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Hsc70-interacting protein ,F10A1_HUMAN,P50502,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Protein crumbs homolog 1,CRUM1_HUMAN,P82279,,,0,0,1,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+AMP deaminase 3 ,AMPD3_HUMAN,Q01432,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Protocadherin-1 ,PCDH1_HUMAN,Q08174,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Sodium channel protein type 5 subunit alpha ,SCN5A_HUMAN,Q14524,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+TSC22 domain family protein 1 ,T22D1_HUMAN,Q15714,,,0,0,1,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Neutral amino acid transporter B,AAAT_HUMAN,Q15758,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Myosin light chain kinase 3 ,MYLK3_HUMAN,Q32MK0,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Shugoshin 2 ,SGO2_HUMAN,Q562F6,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Trafficking protein particle complex subunit 11,TPC11_HUMAN,Q7Z392,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Partner and localizer of BRCA2,PALB2_HUMAN,Q86YC2,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Phospholipase A2 ,Q8IUP3_HUMAN,Q8IUP3,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Spermatogenesis-associated protein 31A7 ,S31A7_HUMAN,Q8IWB4,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Golgi-associated RAB2 interactor protein 5B,GAR5B_HUMAN,Q8N5Q1,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Polyhomeotic-like protein 3 ,PHC3_HUMAN,Q8NDX5,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Putative trypsin-6 ,TRY6_HUMAN,Q8NHM4,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Exocyst complex component 6 ,EXOC6_HUMAN,Q8TAG9,,,0,0,1,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+CDK5 and ABL1 enzyme substrate 1 ,CABL1_HUMAN,Q8TDN4,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Immunoglobulin superfamily DCC subclass member 4 ,IGDC4_HUMAN,Q8TDY8,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Stalled ribosome sensor GCN1 ,GCN1_HUMAN,Q92616,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Uncharacterized protein KIAA0232,K0232_HUMAN,Q92628,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Ryanodine receptor 2 ,RYR2_HUMAN,Q92736,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Protein Jumonji ,JARD2_HUMAN,Q92833,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+PC-esterase domain-containing protein 1B ,PED1B_HUMAN,Q96HM7,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Melanoma inhibitory activity protein 2 ,MIA2_HUMAN,Q96PC5,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Alpha-tocopherol transfer protein-like,TTPAL_HUMAN,Q9BTX7,,,0,0,1,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Derlin-1 ,DERL1_HUMAN,Q9BUN8,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+"Bcl-2-binding component 3, isoforms 1/2 ",BBC3_HUMAN,Q9BXH1,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+AP-1 complex subunit mu-1 ,AP1M1_HUMAN,Q9BXS5,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Centrosomal protein of 44 kDa ,CEP44_HUMAN,Q9C0F1,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Paternally-expressed gene 3 protein ,PEG3_HUMAN,Q9GZU2,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Cleavage stimulation factor subunit 2 tau variant ,CSTFT_HUMAN,Q9H0L4,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Src-like-adapter 2 ,SLAP2_HUMAN,Q9H6Q3,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Ran-binding protein 3 ,RANB3_HUMAN,Q9H6Z4,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+"Splicing factor, arginine/serine-rich 19 ",SFR19_HUMAN,Q9H7N4,,,0,0,1,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Retroelement silencing factor 1,RESF1_HUMAN,Q9HCM1,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+NLR family CARD domain-containing protein 4 ,NLRC4_HUMAN,Q9NPP4,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Sacsin ,SACS_HUMAN,Q9NZJ4,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Spastin ,SPAST_HUMAN,Q9UBP0,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+"Electrogenic aspartate/glutamate antiporter SLC25A13, mitochondrial ",S2513_HUMAN,Q9UJS0,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Peroxisomal carnitine O-octanoyltransferase ,OCTC_HUMAN,Q9UKG9,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+AP-4 complex subunit epsilon-1 ,AP4E1_HUMAN,Q9UPM8,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Calcium-activated chloride channel regulator 2 ,CLCA2_HUMAN,Q9UQC9,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Choline/ethanolamine kinase ,CHKB_HUMAN,Q9Y259,,,0,1,0,0,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Sodium/hydrogen exchanger 8 ,SL9A8_HUMAN,Q9Y2E8,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+Thyroid hormone receptor-associated protein 3 ,TR150_HUMAN,Q9Y2W1,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
+,CMTA1_HUMAN,Q9Y6Y1,,,0,0,0,1,,0,0,0,0,0,0,,,0,0,0,,,,,,,0,,,,0,0,0,0,0,0,0,,0,0
