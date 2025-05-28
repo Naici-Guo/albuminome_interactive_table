@@ -15,8 +15,9 @@ app_ui = ui.page_sidebar(
         ui.p("As a result, it is often unclear whether co-removed proteins are due to albumin binding or associations with other HAPs. These ambiguities make it difficult to interpret depletion results without further analysis."),
         ui.p("In this app, we include studies of two types:"),
         ui.tags.ul(
-            ui.tags.li("Studies that specifically examine albumin-binding proteins (i.e., the albuminome),"),
-            ui.tags.li("Studies that investigate proteins co-removed with albumin or other HAPs during depletion.")),  
+            ui.tags.li("Studies investigating direct albumin-binding proteins/peptides (the albuminome)."),
+            ui.tags.li("Studies that analyze proteins unintentionally removed alongside albumin and other high-abundance proteins (HAPs), " \
+            "where the exact binding source is unclear.")),  
         ui.p("The results from these studies are summarized in an interactive table. Use this app to explore the albuminome and proteins that may be unintentionally removed during depletion protocols."),
 
         ui.h3("Filters to select:"),
