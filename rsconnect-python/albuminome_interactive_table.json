@@ -2,10 +2,10 @@
     "https://api.shinyapps.io": {
         "server_url": "https://api.shinyapps.io",
         "filename": "/Users/naiciguo/Documents/2025_albuminome_paper/albuminome_interactive_table",
-        "app_url": "https://mangopeachbanana.shinyapps.io/albuminome_explorer1/",
-        "app_id": 14842263,
+        "app_url": "https://mangopeachbanana.shinyapps.io/albuminome-explorer/",
+        "app_id": 14842530,
         "app_guid": null,
-        "title": "Albuminome_Explorer",
+        "title": "albuminome-explorer",
         "app_mode": "python-shiny",
         "app_store_version": 1
     }

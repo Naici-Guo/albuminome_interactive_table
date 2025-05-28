@@ -2,3 +2,5 @@ shiny
 seaborn
 pandas
 numpy
+jinja2
+
