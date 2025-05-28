@@ -57,6 +57,7 @@ app_ui = ui.page_sidebar(
         ui.output_table("aggregated_table"),
         full_screen=True,
         style="""
+            max-height: 800px;
             overflow-y: auto; 
             overflow-x: auto;
         """,
