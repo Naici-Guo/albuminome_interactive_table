@@ -10,27 +10,32 @@ albumin_only_options = ["All", "Yes", "No"]
 app_ui = ui.page_sidebar(
     ui.sidebar(
         ui.h3("About:"),
-        "Albumin can bind to a wide quantity of proteins and peptides in humnan blood, which leads to the term 'albuminome'" \
-        "defined by Stanley et al. (2004). In quantitative proteomics studies, albumin-depletion, which is the standard procedure" \
-        "can also remove other proteins due to the binding of albumin and other proteins. " \
-        "Removal of albumin in proteomics studies is usually done by commercialised kits that target at other high abundant " \
-        "proteins (HAPs), so that the co-removed proteins can possibly due to co-removal with albumin or other HAPs that cannot and have never" \
-        "be distinguished. " \
-        "We include studies that are of two types: (1) studies that are studying albumin-binding proteins only, and "
-        "(2) studies that are studying co-removed proteins with albumin or other HAPs. And summerised the results in this interactive table. " \
-        "This app allows you to explore the albuminome and/or co-removed proteins ",
-        ui.strong("Select HAPs of interest:"),
-        #ui.h3("Filters to select"),
+        ui.p("Albumin can bind to a wide range of proteins and peptides in human blood, leading to the concept of the 'albuminome' as defined by Stanley et al. (2004)."),
+        ui.p("In quantitative proteomics studies, albumin depletion is a common preprocessing step. This is typically done using commercial kits that target high-abundance proteins (HAPs), including albumin. However, because albumin binds to many other proteins, this process can unintentionally remove additional proteins bound to albumin or other HAPs."),
+        ui.p("As a result, it is often unclear whether co-removed proteins are due to albumin binding or associations with other HAPs. These ambiguities make it difficult to interpret depletion results without further analysis."),
+        ui.p("In this app, we include studies of two types:"),
+        ui.tags.ul(
+            ui.tags.li("Studies that specifically examine albumin-binding proteins (i.e., the albuminome),"),
+            ui.tags.li("Studies that investigate proteins co-removed with albumin or other HAPs during depletion.")),  
+        ui.p("The results from these studies are summarized in an interactive table. Use this app to explore the albuminome and proteins that may be unintentionally removed during depletion protocols."),
+        #ui.strong("Select HAPs of interest:"),
+
+        ui.h3("Filters to select:"),
+         ui.p("1. Please select the type of studies you want to include based on the proteins of interest. "),
+                    ui.tags.ul(
+                        ui.tags.li("Select 'All' to include all studies, regardless of whether they focus on albumin or other HAPs."),
+                        ui.tags.li("Select 'Yes': to include studies that specifically investigate albumin-binding proteins (the albuminome)."),
+                        ui.tags.li("Select 'No' to include studies that investigate proteins co-removed with albumin and other HAPs, other HAPs can be further selected below."),
+                    ), 
         ui.input_select("albumin_only", 
-                    ui.strong("If you are only interested in proteins that potentially bind with albumin, i.e., included studies are " \
-                    "studying albumin-binding only, and please select 'Yes',:",\
-                    "if you are interested in all proteins, select 'All'." \
-                    " If you are interested in proteins that are co-removed with albumin, select 'No'."), 
+                    ui.strong("Albumin only study?"),
                     choices = albumin_only_options,
                     selected="Yes"),
+        ui.p("2. If you selected ‘No’ above, you can now choose specific high-abundance proteins (HAPs) that you’re interested in. " \
+        "This will allow you to explore proteins that are potentially co-removed along with the selected HAP(s) during depletion."),
+        ui.p("If you selected ‘All’ above, all HAPs listed below will be included automatically in the results."),
         ui.input_checkbox_group("other_proteins", 
-                            ui.strong("If selected 'No' above, you can select cofounding other HAPs proteins that are usually co-removed with albumin and bind with. " \
-                                      "other proteins" ), 
+                            ui.strong("Other HAPs:" ), 
                             choices=other_proteins_options, 
                             selected="All"),
         width="600px",
@@ -38,7 +43,7 @@ app_ui = ui.page_sidebar(
     ),
     # this card returns the list of studies that match the selected criteria
     ui.card(
-        ui.h3("Details about selected studies"),
+        ui.h3("Details of included studies:"),
         ui.output_table("selected_papers"),
         style="""
             max-height: 400px; 
@@ -49,7 +54,7 @@ app_ui = ui.page_sidebar(
     ),
     # this card returns the aggregated table of proteins that match the selected criteria
     ui.card(
-        ui.h3("Albuminome and/or co-removed proteins with HAPs"),
+        ui.h3("Summary of proteins identified as albuminome and/or co-removed with selected HAPs:"),
         ui.output_table("aggregated_table"),
         full_screen=True,
         style="""
