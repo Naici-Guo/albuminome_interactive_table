@@ -18,7 +18,6 @@ app_ui = ui.page_sidebar(
             ui.tags.li("Studies that specifically examine albumin-binding proteins (i.e., the albuminome),"),
             ui.tags.li("Studies that investigate proteins co-removed with albumin or other HAPs during depletion.")),  
         ui.p("The results from these studies are summarized in an interactive table. Use this app to explore the albuminome and proteins that may be unintentionally removed during depletion protocols."),
-        #ui.strong("Select HAPs of interest:"),
 
         ui.h3("Filters to select:"),
          ui.p("1. Please select the type of studies you want to include based on the proteins of interest. "),
@@ -64,16 +63,10 @@ app_ui = ui.page_sidebar(
         class_="left-align-table"
     ),
     ui.include_css("style.css"),
-    #title= "Albuminome and/or co-removed proteins with high abundance proteins in human blood based studies",
-    #title = ui.div(
-        #ui.h2("Albuminome Research Explorer", style="margin-bottom: 0.2rem;"),
-        #ui.p("Studying albumin-binding and co-removed proteins ", ui.strong("(HAPs)"), " in human blood",
-        #     style="font-size: 1.1rem; margin-top: 0; color: #555;"),
-        #style="text-align: center; padding: 0.5rem;")
     title = ui.div(
-        ui.h3("Characterization of Albuminome and High-Abundance Protein Interactions",
+        ui.h3("Comprehensive Profiling of Albuminome and High Abundance Protein interactions in Human Blood Samples",
             style="font-weight: 400; border-bottom: 1px solid #eee; padding-bottom: 0.5rem;"),
-        ui.p("Analysis of albumin-binding proteins and co-removed HAPs in human serum studies",
+        ui.p("Exploring proteins co-removed with high abundance proteins (HAPs) in depletion-based proteomics studies",
             style="font-style: italic; color: #666; font-size: 0.95rem; margin-top: 0.5rem;"),
         style="text-align: center;")
 )
@@ -170,19 +163,3 @@ def server(input, output, session):
         return aggregated
     
 app = App(app_ui, server)
-
-"""
-with ui.sidebar(bg="#f8f8f8", width="500px"):
-    ui.h3("About:")
-    "This app allows you to explore the albuminome and/or co-removed proteins "
-    "with high abundance proteins (HAPs) in human blood-based studies. You can select specific proteins of interest, "
-    "view their abundance, and filter by species."
-    ui.strong("Select HAPs of interest:") 
-    ui.input_select("choose_albumin_only", 
-                    ui.strong("Albumin only?"), 
-                    choices=["Yes", "No"])
-    ui.input_checkbox_group("choose_other_proteins", 
-                            ui.strong("If select No above, proteins co-removed other HAPs:"), 
-                            choices=other_proteins_options, 
-                            selected="All")
-"""
