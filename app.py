@@ -64,7 +64,7 @@ app_ui = ui.page_sidebar(
     ),
     ui.include_css("style.css"),
     title = ui.div(
-        ui.h3("Comprehensive Profiling of Albuminome and High Abundance Protein interactions in Human Blood Samples",
+        ui.h3("Comprehensive Profiling of Albuminome and High Abundance Protein Interactions in Human Blood",
             style="font-weight: 400; border-bottom: 1px solid #eee; padding-bottom: 0.5rem;"),
         ui.p("Exploring proteins co-removed with high abundance proteins (HAPs) in depletion-based proteomics studies",
             style="font-style: italic; color: #666; font-size: 0.95rem; margin-top: 0.5rem;"),
